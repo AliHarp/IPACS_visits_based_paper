@@ -41,7 +41,7 @@ The models and input files used for this paper are available here:
 
 All model outputs and results are available here:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934721.svg)](https://doi.org/10.5281/zenodo.7845907)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934721.svg)](https://doi.org/10.5281/zenodo.7934721)
 
 ## Using and citing the model
 The IPACS model is licensed using [GPL-3 license](https://choosealicense.com/licenses/gpl-3.0/).
@@ -96,15 +96,6 @@ Permissions of this strong copyleft license are conditioned on making available 
 └── time_dependent_inputs_N.xlsx
 ```
 
-## Author ORCIDs
-
-[![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-brightgreen)](https://orcid.org/0000-0001-5274-5037)
-[![ORCID: Worthington](https://img.shields.io/badge/ORCID-0000--0003--1400--0194-brightgreen)](https://orcid.org/0000-0003-1400-0194)
-[![ORCID: OnenDumlu](https://img.shields.io/badge/ORCID-0000--0001--8878--5495-brightgreen)](https://orcid.org/0000-0001-8878-5495)
-[![ORCID: Forte](https://img.shields.io/badge/ORCID-0000--0002--1060--9106-brightgreen)](https://orcid.org/0000-0002-1060-9106)
-[![ORCID: Wood](https://img.shields.io/badge/ORCID-0000--0002--3476--395X-brightgreen)](https://orcid.org/0000-0002-3476-395X)
-[![ORCID: Vasilaki](https://img.shields.io/badge/ORCID-0000--0002--0391--0910-brightgreen)](https://orcid.org/0000-0002-0391-0910)
-[![ORCID: Pitt](https://img.shields.io/badge/ORCID-0000--0003--4026--8346-brightgreen)](https://orcid.org/0000-0003-4026-8346)
 
 ## Research Papers linked to IPACS
 
