@@ -42,7 +42,7 @@ All model outputs and results are available here:
 ## Using and citing the model
 The IPACS model is licensed using [GPL-3 license](https://choosealicense.com/licenses/gpl-3.0/).
 
-If you use the IPACS model for research, reporting, education or any other reason, please cite it using details on Zenodo
+If you use the IPACS routine model for research, reporting, education or any other reason, please cite it using details on Zenodo
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7845908.svg)](https://doi.org/10.5281/zenodo.7845908)
 
 ```
@@ -76,34 +76,20 @@ Permissions of this strong copyleft license are conditioned on making available 
 
 ```bash
 
-├── IPACS_model.Rproj
-├── IPACS_main script.R
-│   └──set_up.R
-│   └── bed_functions.R
-│   └── bed_model.R
-│   └── visit_functions.R
-│   └── visit_model.R
-│   └── ipacs_produce_report.Rmd
-├── model_inputs
-│   └── IPACS_params.xlsx
-├── outputs
-│   └── report
-│   		└── .docx
-│   └── report_data
-│   		└── .csv
-│   └── stochastic_data
-│   		└── .csv
+├── MODEL_steady_state.R
+├── MODEL_time_dependent.R
 ├── images
-│   		└── .png
-├── Documentation
-│   		└── Overview
-│   		└── Technical guide
-│   		└── STRESS-DES reporting guidelines
+│   └── visit_flow.png
+├── intelligent_init.R
+├── save_outputs_to_single_file.R
+├── STRESS_DES
 ├── LICENSE
 ├── README.md
 └── .gitignore
-└── .Rproj.user
-└── testing
+└── visit_vector_test.R
+└── time_dependent_inputs.xlsx
+└── time_dependent_inputs_E.xlsx
+└── time_dependent_inputs_N.xlsx
 ```
 
 ## Author ORCIDs
