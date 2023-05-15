@@ -35,9 +35,13 @@ The model is reported using [STRESS-DES Reporting Guidelines](https://doi.org/10
 
 ## Results 
 
+The models and input files used for this paper are available here:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7937061.svg)](https://doi.org/10.5281/zenodo.7937060)
+
 All model outputs and results are available here:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7845908.svg)](https://doi.org/10.5281/zenodo.7845908)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934721.svg)](https://doi.org/10.5281/zenodo.7845907)
 
 ## Using and citing the model
 The IPACS model is licensed using [GPL-3 license](https://choosealicense.com/licenses/gpl-3.0/).

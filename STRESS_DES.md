@@ -127,11 +127,13 @@ The model implements a time-slicing approach. Unlike DES, which steps through di
 The model was run on Intel i7-12700H CPU with 32GB RAM running Pop!_OS 22.04 Linux.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 ## 6.0 Code access
 
-Simulation model code is available from the main branch of Githib repo: https://github.com/AliHarp/IPACS_visits_based_paper/tree/main
+Simulation model code is available from the main branch of the Githib repo [here](https://github.com/AliHarp/IPACS_visits_based_paper/tree/main).
 
 Zenodo archive:
+
+Model files: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7937061.svg)](https://doi.org/10.5281/zenodo.7937061) 
  
-Outputs: https://zenodo.org/record/7845908#.ZGD6ns7MKUm
+Outputs: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7934721.svg)](https://doi.org/10.5281/zenodo.7934721)
 
  
 
